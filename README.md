@@ -685,12 +685,12 @@ src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&l
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=TALHAREYAZ&show_icons=true&hide_border=true&rank_icon=github"
 />
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TALHAREYAZ&layout=compact&hide_border=true"
 />
 
 </div>
@@ -700,7 +700,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=TALHAREYAZ&hide_border=true"
 />
 
 </div>
