@@ -23,13 +23,13 @@ alt="Typing SVG"
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/TALHAREYAZ">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=TALHAREYAZ&label=Profile+Views&style=flat-square"/>
 
 </div>
 
